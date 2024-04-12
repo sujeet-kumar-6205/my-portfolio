@@ -30,16 +30,15 @@ export const educations = [
   {
     id: "college",
     degree: "B.Tech (Computer Science)",
-    institution: "Pune Institute of Technology",
-    cgpa: "8.74",
-    startTime: "2018 Aug",
+    institution: "Malaviya National Institute of Technology, Jaipur",
+    startTime: "2018 july",
     endTime: "2022 June",
   },
   {
     id: "school",
     degree: "Higher Secondary",
-    institution: "Kendriya Vidyalaya Bantalab",
-    percentage: "75.80",
+    institution: "Shiv Janam Rai Mahavidayalay",
+    percentage: "76",
     startTime: "2017 April",
     endTime: "2018 June",
   },
@@ -61,16 +60,16 @@ export const skills = [
     name: "C++",
   },
   {
-    id: "java",
-    name: "Java",
+    id: "JavaScript",
+    name: "JavaScript",
   },
   {
-    id: "springBoot",
-    name: "Spring Boot",
+    id: "Node.Js",
+    name: "Node.Js",
   },
   {
-    id: "hibernate",
-    name: "Hibernate",
+    id: "Express.js",
+    name: "Express.js",
   },
   {
     id: "mySql",
