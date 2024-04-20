@@ -65,7 +65,7 @@ export const Contact = () => {
           <div className="absolute z-[1] -left-1/2 top-0 w-[50%] h-[50%] rounded-full white__gradient sm:m-0 m-11" />
           <form
             className="p-6 w-full border-[1px] border-[#3F3E45] rounded-[20px] z-[5]"
-            action="https://formspree.io/f/meqyebqd"
+            action="https://formspree.io/f/mleqanpg"
             method="POST"
           >
             <FormData

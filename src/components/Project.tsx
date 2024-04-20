@@ -31,7 +31,7 @@ export const Project = () => {
     const fetchRepositoryName = async () => {
       try {
         const response = await fetch(
-          "https://api.github.com/users/sahilsinggh/repos"
+          "https://api.github.com/users/sujeet-kumar-6205/repos"
         );
         if (!response.ok) {
           throw new Error("Failed to fetch repositories");
