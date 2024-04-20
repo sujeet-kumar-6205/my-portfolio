@@ -10,7 +10,7 @@ export const Contact = () => {
   const [lastName, setLastName] = useState<string | null>();
   const [email, setEmail] = useState<string | null>();
   const [comments, setComments] = useState<string | null>();
-
+  console.log(firstName, lastName, email, comments);
   return (
     <section id="contact" className="relative">
       <h4
